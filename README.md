@@ -18,6 +18,6 @@ Your app should now be running on [localhost:3000](http://localhost:3000/).
 
 ## Those are the api paths to use:
 
-# Shows the files list           [ /files ]
-# Shows the file content         [ /files/:fileName ]                         
-# Shows the table information    [ /files/:fileName/tables/:tableTitle ]
+### Shows the files list           [ /files ]
+### Shows the file content         [ /files/:fileName ]                         
+### Shows the table information    [ /files/:fileName/tables/:tableTitle ]
